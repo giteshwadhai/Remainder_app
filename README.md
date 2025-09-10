@@ -11,27 +11,6 @@ A simple and elegant reminder application built with Python and Streamlit. This 
 - Visual indicators for reminder status (Today, Tomorrow, Overdue, Upcoming)
 - Persistent storage of reminders
 
-## Python Version
-
-## Installation
-
-1. Clone this repository or download the source code
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the Streamlit app with the following command:
-
-```bash
-streamlit run main.py
-```
-
-The app will open in your default web browser at `http://localhost:8501`.
-
 ## How to Use
 
 1. **Add a Reminder**: Fill out the form with a title, optional description, and due date/time, then click "Add Reminder"
@@ -59,11 +38,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+website = https://remainderapp-lbyhlnkbvvyaqhccxivbob.streamlit.app/
 
-Simply open [Lovable](https://lovable.dev/projects/c0598681-2c09-4904-97fe-2dc5ad875dab) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+
 
 Yes, you can!
 
